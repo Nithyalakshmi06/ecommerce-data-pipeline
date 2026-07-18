@@ -47,7 +47,15 @@ python spark_jobs/load_to_warehouse.py
 ```
 
 MinIO console: http://localhost:9001 (minioadmin / minioadmin)
+
+<img width="1910" height="1002" alt="Screenshot from 2026-07-16 18-45-58" src="https://github.com/user-attachments/assets/3a80bf6a-3aa5-4e64-b419-9da50da46c5d" />
+
+
 Airflow UI: http://localhost:8080 (after running `airflow standalone`)
+
+<img width="1920" height="1080" alt="Screenshot from 2026-07-18 10-10-23" src="https://github.com/user-attachments/assets/ee58c3c0-a34f-4f7b-97d1-af7386e10cec" />
+
+
 
 ## What I learned building this
 
